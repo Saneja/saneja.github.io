@@ -9,13 +9,17 @@
 title: Saahil's website!
 email: saahil.aneja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+This is the website of Saahil Aneja, a seventh grader! Coded using Github, Codecademy, and the domain from Amazon, I am looking forward to updating this site! 
+baseurl: "About"
+baseurl: "Saahilisms" # the subpath of your site, e.g. /blog
+baseurl: "Sports"
+baseurl: "Music"
+baseurl: "Academics"
+baseurl: "Fun"
+url: "http://saahilaneja.com" # the base hostname & protocol for your site
 
 github_username: Saneja
+codecademy_username: Saneja
 
 # Build settings
 markdown: kramdown
