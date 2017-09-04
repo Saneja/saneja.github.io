@@ -10,12 +10,12 @@ title: Saahil's website!
 email: saahil.aneja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 This is the website of Saahil Aneja, a seventh grader! Coded using Github, Codecademy, and the domain from Amazon, I am looking forward to updating this site! 
-baseurl: "About"
-baseurl: "Saahilisms" # the subpath of your site, e.g. /blog
-baseurl: "Sports"
-baseurl: "Music"
-baseurl: "Academics"
-baseurl: "Fun"
+baseurl: "/About"
+baseurl: "/Saahilisms" # the subpath of your site, e.g. /blog
+baseurl: "/Sports"
+baseurl: "/Music"
+baseurl: "/Academics"
+baseurl: "/Fun"
 url: "http://saahilaneja.com" # the base hostname & protocol for your site
 
 github_username: Saneja
