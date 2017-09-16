@@ -17,6 +17,11 @@ Me: What happened, Jee? Didn&#39;t you get to your happy place?...
 J: It’s taking a long time.
 #Thisgirl #Thisgeneration #InstantGratification
 
+up vote
+1
+down vote
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Jiyaims
 *While having Mexican Chicken Tortilla soup for dinner.*
 Jiya: Mumma, Let me guess. This is Hindi soup because it has rice in it.
