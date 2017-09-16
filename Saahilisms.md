@@ -8,6 +8,8 @@ SAAHILISMS AND JIYAISMS!
 Quippable quips attributed to me and compiled by my parents over the years.
 Here you will find funny quotes from my sister, Jiya, and me. Written from my dad's point of view.
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Jiyaisms
 *Jiya striking a meditation pose on the family room table and chanting &#39;Om&#39;*
 Me: Jee, What are you doing?
@@ -17,9 +19,6 @@ Me: What happened, Jee? Didn&#39;t you get to your happy place?...
 J: It’s taking a long time.
 #Thisgirl #Thisgeneration #InstantGratification
 
-up vote
-1
-down vote
 <hr style="height:1px;border-top:1px solid #f00" />
 
 #Jiyaims
@@ -27,13 +26,19 @@ down vote
 Jiya: Mumma, Let me guess. This is Hindi soup because it has rice in it.
 #failingasparents
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Jiyaisms
 *Jiya on getting her turn as the &#39;star leader of the week&#39; in her Kindergarten class.*
 &quot;Daddy, I&#39;ve been waiting for this moment my whole life.&quot;
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 Nowadays, Google just doesn&#39;t give you what you need. #Saahilisms #homeworkblues #firstworldproblems
 
 #Saahilisms
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 *Last evening, while helping Saahil with some pie-charts for his school project*
 
@@ -45,6 +50,8 @@ Saahil: I wish I knew how to make &#39;chai&#39; so that I could make it for you
 
 *This kid melts my heart!*
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Jiyaisms
 
 Me: Hey Jee, Did you learn any Math in school today?
@@ -54,10 +61,14 @@ Jee: Well, projects, of course! And, activitity.
 
 *Activitity sounds way cooler than activity.*
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 I think that I may be going through a serious mid-life massage crisis. That awkward phase of life when
 your older kid is too heavy, and your younger one too light, to walk on your back.
 
 #Saahilisms
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 *Humming/singing an old Bollywood song from &#39;Akele Hum Akele Tum&#39; while teasing Archana for no
 good reason.*
@@ -74,19 +85,27 @@ Saahil (interrupting me): Perhaps it was because of your singing.
 
 *This kid pulls no punches!*
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 Ever tried, ever failed, no matter;
 Try again, fail again, fail better!
 
 #Jiyaisms
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 You know that you&#39;re traveling in airplanes a bit too much when the first words your four-year old can
 read are &quot;Exit Row&quot;.
 
 #Jiyaisms
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 So, 6 has a big tummy and 9 has a big head?
 
 #knowyournumbers
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 #Saahilisms
 
@@ -97,6 +116,8 @@ than you.
 
 *Brutal honesty*
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Jiyaisms
 
 Jiya: Daddy, you need to come for dinner. Your mother (referring to Archana) said so.
@@ -105,8 +126,12 @@ Jiya: No, that&#39;s mom. That&#39;s your mother.
 Me: Silly goose, dadi is daddy&#39;s mother.
 Jiya (defiantly): No, dadi is your &#39;Indian&#39; mother. And, mom *is* your mother.
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 *Not only do our kids have a severe identity crisis, they are completely confused. Clearly, we have failed
 as parents.*
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 #Saahilisms
 
@@ -118,6 +143,8 @@ Arch: He has no specific team affiliation, which also means that he can dress up
 clothes or in Indian ones.
 Me: Saahil, perhaps you can do a fusion theme this time i.e. dress up in Indian-American hybrid style.
 Saahil: Yeah, right! Because nothing says cool like a guy wearing a tuxedo coat and a lungi.
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 #Saahilisms
 
@@ -131,12 +158,16 @@ Saahil: No, my family and I are international Hindus.
 
 #Saahilisms
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 *After getting tired of Mom&#39;s persistent, but valid, reminders to take care of his school homework and
 related stuff for Monday morning.*
 
 Saahil (with a distressed, almost aggravated look on his face): You have no idea how hard my life is!
 
 #firstworldkids #firstworldproblems
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 #Jiyaisms
 
@@ -148,6 +179,8 @@ Jiya: Mommy, Since C and I are holding hands, you can also hold hands with C&#39
 *Jiya, the matchmaker! Trying to hook up my wife with my friend.*
 
 #Jiyaisms
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 *While dropping off Jiya to her day-care this morning.*
 
@@ -164,6 +197,8 @@ Jiya: The part when it ends.
 
 *End of negotiation!*
 
+<hr style="height:1px;border-top:1px solid #f00" />
+
 #Saahilisms
 
 Me: Hey bud, how was school today?
@@ -175,5 +210,7 @@ Me: On?
 Saahil: Depends on whom you end up dancing with.
 
 *This kid is growing up way too fast.*
+
+<hr style="height:1px;border-top:1px solid #f00" />
 
 MORE TO COME! 
