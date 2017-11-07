@@ -3,7 +3,7 @@ layout: page
 title: Saahilisms
 permalink: /saahilisms/
 ---
-SAAHILISMS AND JIYAISMS!
+<blink> SAAHILISMS AND JIYAISMS! </blink>
 
 Quippable quips attributed to me and compiled by my parents over the years.
 Here you will find funny quotes from my sister, Jiya, and me. Written from my dad's point of view.
